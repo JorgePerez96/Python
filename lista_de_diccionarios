@@ -1,0 +1,22 @@
+cursos = [
+    {
+        'curso': 'Matematicas',
+        'inscritos': 20,
+        'aprobados': 15
+    },
+
+    {
+        'curso': 'Ciencias',
+        'inscritos': 30,
+        'aprobados': 10
+    },
+    {
+        'curso': 'Ingles',
+        'inscritos': 25,
+        'aprobados': 20
+    },
+]
+
+print(cursos[2]['inscritos'])
+print(cursos[2]['aprobados'])
+print(cursos[1]['aprobados'])
