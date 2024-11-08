@@ -1,0 +1,7 @@
+nueva_lista = [
+    [1, 'a', True],
+    [2, 'b', False],
+    [3, 'c', True]
+]
+
+print(nueva_lista[1][1])
